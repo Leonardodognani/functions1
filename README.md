@@ -19,3 +19,5 @@
 
 ## Código no VScode, usando a extensão do Live Server no HTML e abrindo o Console no browser para rodar os testes:
 ![functions1](https://user-images.githubusercontent.com/82122343/129653078-69404057-deed-403a-8e36-a97a55161df8.jpg)
+
+# 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀
